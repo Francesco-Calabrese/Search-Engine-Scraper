@@ -1,5 +1,5 @@
 # Search-Engine-Scraper
-Retrieves search engine from a selected search engine given a search term.
+Retrieves search engine results from a selected search engine given a search term.
 
 Operation
 ----------
